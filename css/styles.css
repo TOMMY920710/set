@@ -1,0 +1,28 @@
+.card{
+    background-color: whitesmoke;
+    width: 300px;
+    border:1px solid;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.card img{
+    width: 100%;
+}
+
+.contenedor_limite{
+    background-color: blanchedalmond;
+    padding: 25px;
+    max-width: 500px;
+    border: 1px solid;
+    margin: 50px auto ;
+}
+
+h2{
+    text-align: center;
+}
+
+.item{
+    color:red;
+}
